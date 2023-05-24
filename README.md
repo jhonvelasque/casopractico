@@ -1,0 +1,2 @@
+# casopractico
+sql ,python 
