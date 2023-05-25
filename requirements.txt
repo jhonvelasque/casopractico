@@ -1,0 +1,8 @@
+geopandas==0.13.0
+ipykernel==6.23.1
+mysql-connector-python==8.0.33
+pathlib==1.0.1
+pip-chill==1.0.3
+pymysql==1.0.3
+seaborn==0.12.2
+sqlalchemy==2.0.15
